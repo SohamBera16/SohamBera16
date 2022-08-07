@@ -1,7 +1,7 @@
 # Hey there 👋 !!
 I am Niloy Chakraborty, and currently, I working as a Data Scientist at the SenseGuard GmbH (a part of LIXIL group) and responsible for data analysis and building efficient DL/ML based solutions. I am a highly motivated and goal-oriented professional with over 5 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy-Chakraborty&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamBera16&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Reach Out to Me
