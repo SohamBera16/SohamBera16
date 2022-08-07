@@ -1,23 +1,15 @@
 # Hey there 👋 !!
-I am Niloy Chakraborty, and currently, I working as a Data Scientist at the SenseGuard GmbH (a part of LIXIL group) and responsible for data analysis and building efficient DL/ML based solutions. I am a highly motivated and goal-oriented professional with over 5 years of full-time work experience in Computer Vision, Machine Learning and Deep Learning. I believe in the use of technology and human intellect to solve complex business problems and provide state-of-the-art solutions.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamBera16&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Reach Out to Me
 <p>
- Email: chakrabortyniloy2018@gmail.com
+ Email: soham.bera16@gmail.com
 <!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/niloy-chakraborty/">
+    <a href="https://www.linkedin.com/in/soham-kanti-bera/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-      <a href="https://www.researchgate.net/profile/Niloy-Chakraborty">
-    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />
-  </a>&nbsp;&nbsp;
- -->
-  
-</p>
+
+ </p>
 
 ## Projects/ Publications/ Profile
 <p>
