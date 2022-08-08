@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **new opportunities to learn and work in the field of data as an intern/working student.**
 
-- ⚡ Fun fact: **I love travelling,cooking,reading books,and superheroes(both fictional and non-fictional 😊)**
+- ⚡ Fun fact: **I love travelling,cooking,reading books,music, and movies.😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
