@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **new opportunities to learn and work in the field of data.**
 
-- ⚡ Fun fact **I love travelling,cooking,reading books,and superheroes(both fictional and non-fictional 😊)**
+- ⚡ Fun fact: **I love travelling,cooking,reading books,and superheroes(both fictional and non-fictional 😊)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
