@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Bera 🙋‍♂️ </h1>
 <h3 align="center">A curious learner who is exploring Data Science and Machine Learning tools and technologies to turn data into actionable insights.</h3>
 
-- 👨‍💻 I'm currently pursuing my **Master of Science (Information Technology,Focus:Data Science/AI) at the University of Stuttgart.**
+- 👨‍💻 I'm currently pursuing my **Master of Science (Information Technology, Focus:Data Science & AI) at the University of Stuttgart.**
 
 - 🔭 I’m currently working as [a scientific student assistant - data science at Fraunhofer IPA in the smart manufacturing/industry 4.0 domain.](https://www.ipa.fraunhofer.de/de/referenzprojekte/ProBayes.html)
 
