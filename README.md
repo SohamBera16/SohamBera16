@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting,data-driven projects in diverse domains.**
 
-- 🤝 I’m looking for help with **new opportunities to learn and work in the field of data.**
+- 🤝 I’m looking for **new opportunities to learn and work in the field of data as an intern/working student.**
 
 - ⚡ Fun fact: **I love travelling,cooking,reading books,and superheroes(both fictional and non-fictional 😊)**
 
