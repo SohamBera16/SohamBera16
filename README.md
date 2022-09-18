@@ -17,7 +17,7 @@
 <a href="https://twitter.com/Soham_1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Soham_1611" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohambera16&show_icons=true&theme=tokyonight&title_color=004080&text_color=004080&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="sohambera16" /></p>
