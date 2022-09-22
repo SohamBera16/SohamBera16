@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham 🙋‍♂️ </h1>
+<h1 align="center">Hi 👋, I'm Soham 👨‍💻 </h1>
 <h3 align="center">A curious learner who is exploring Data Science and Machine Learning tools and technologies to turn data into actionable insights.</h3>
 
 - 👨‍💻 I'm currently pursuing my **Master of Science (Information Technology, Focus: Data Science & AI) at the University of Stuttgart.**
