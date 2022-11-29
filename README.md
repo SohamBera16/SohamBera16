@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohambera16&show_icons=true&theme=tokyonight&title_color=004080&text_color=004080&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="sohambera16" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohambera16&show_icons=true&theme=cobalt&title_color=004080&text_color=004080&bg_color=ffffff&hide_border=true&locale=en" alt="sohambera16" /></p>
+
 
 
 
