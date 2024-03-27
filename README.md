@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I love travelling,cooking,reading books,music, and movies.😊**
 
--  Currently learning: 
+-  Currently learning: **Generative AI (LLM, RAG, Multimodal Models, etc.) and MLOps in Industry 4.0** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
