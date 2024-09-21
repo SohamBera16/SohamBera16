@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham 👨‍💻 </h1>
 
-![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/34c1a47a-2d1f-4da2-adea-80d428a41825) ![212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5](https://github.com/user-attachments/assets/1540b522-3303-45d7-b0b1-02f3c53003ff)
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/34c1a47a-2d1f-4da2-adea-80d428a41825) ![236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73](https://github.com/user-attachments/assets/b9256374-2534-4f8c-b8ed-2f7e5dbda802)
 
 
 <h3 align="center">A curious learner who is exploring Data Science and Machine Learning tools and technologies to turn data into actionable insights.</h3>
