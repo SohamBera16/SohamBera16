@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham 👨‍💻 </h1>
-
-<center>
-  ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/9ef08ad5-df2d-4b7f-a345-8fa6636d6a12)
-</center>
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/34c1a47a-2d1f-4da2-adea-80d428a41825)
 
 <h3 align="center">A curious learner who is exploring Data Science and Machine Learning tools and technologies to turn data into actionable insights.</h3>
 
