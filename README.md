@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham 👨‍💻 </h1>
+
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/eb31450b-f533-4fea-bcc5-6f2a2d740f91)
+
 <h3 align="center">A curious learner who is exploring Data Science and Machine Learning tools and technologies to turn data into actionable insights.</h3>
 
 - 👨‍💻 I'm currently pursuing my **Master of Science (Information Technology, Focus: Data Science & AI) at the University of Stuttgart.**
