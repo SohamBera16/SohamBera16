@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **interesting,data-driven projects in diverse domains.**
 
-- 🤝 I’m looking for **new opportunities to learn and work in the field of data as a full-time employee.**
+- 🤝 I’m looking for **new opportunities to learn and work in the field of data.**
 
 - ⚡ Fun fact: **I love travelling,cooking,reading books,music, and movies.😊**
 
-- 🦾 Currently learning: **Generative AI (LLM, RAG, Multimodal Models, etc.) and MLOps in Industry 4.0** 
+- 🦾 Currently learning: **Generative AI (LLM, RAG, Agentic AI, Multimodal Models, etc.) and AIOps** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
